@@ -5,19 +5,19 @@
 
 ✔ - [view my LinkedIn profile (experience, education, etc.)](https://www.linkedin.com/in/andrew-alekseenkov/)  
 
-## `Table of Contents`
+## Table of Contents
 - [DevOps Skills](#devops-skills)
 - [DevOps Hands-On Projects](#devops-hands-on-projects)
-- [All Skills in IT (30+ years)](#all-skills-in-it)
+- [All My IT Skills and Technologies](#all-my-it-skills-and-technologies)
 
-## `DevOps Skills`
+## DevOps Skills
 
 - Linux · Git · GitLab CI/CD · Docker · Ansible
 - Bash · Python · Go · PHP · JavaScript · YAML  
 - Kubernetes · OpenShift · Docker Compose · Docker Swarm  
 - Terraform · Helm · Yandex Cloud · VK Cloud · AWS  
 
-## `DevOps Hands-On Projects`
+## DevOps Hands-On Projects
 
 I believe in learning by doing. Here are some of my DevOps projects designed around the real-world scenarios and ensured me gaining practical skills that can be immediately applied in my work environment.
 
@@ -32,7 +32,7 @@ I believe in learning by doing. Here are some of my DevOps projects designed aro
 - DevOps Project 09 - Structuring a Terraform Project
 - DevOps Project 10 - Building and Executing Selenium Project
 
-## `All Skills in IT`
+## All My IT Skills and Technologies
 
 - _Linux_ - Debian, Ubuntu, Mint, CentOS, Rocky Linux  
 - _Source Code Management_ - GitLab, GitHub, Bitbucket  
