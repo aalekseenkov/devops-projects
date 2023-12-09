@@ -12,10 +12,9 @@
 
 ## DevOps Skills
 
-- Linux · Git · GitLab CI/CD · Docker · Ansible
-- Bash · Python · Go · PHP · JavaScript · YAML  
-- Kubernetes · OpenShift · Docker Compose · Docker Swarm  
-- Terraform · Helm · Yandex Cloud · VK Cloud · AWS  
+- __Programming Languages__ - Bash, Python, Go, PHP, JavaScript, YAML
+- __Cloud Platforms__ - AWS, Yandex Cloud, VK Cloud
+- __DevOps Tools__ - Git, GitLab CI/CD, Docker, Ansible, Kubernetes, OpenShift, Terraform, Helm
 
 ## DevOps Hands-On Projects
 
@@ -34,37 +33,37 @@ I believe in learning by doing. Here are some of my DevOps projects designed aro
 
 ## All My IT Skills and Technologies
 
-- _Linux_ - Debian, Ubuntu, Mint, CentOS, Rocky Linux  
-- _Source Code Management_ - GitLab, GitHub, Bitbucket  
-- _Scripting and Languages_ - Bash, Python, Go  
-- _Build_ - Maven, Gradle, npm  
-- _Continuous Integration_ - GitLab CI, Jenkins, GitHub Actions  
-- _Artifact Management Tools_ - Nexus  
-- _Continuous Delivery_ - GitLab CD, Jenkins  
-- _Infrastucture Provisioning_ - Terraform  
-- _Configuration Management_ - Ansible  
-- _Cloud Providers_ - Yandex Cloud, VK Cloud, AWS  
-- _Containerization_ - Docker, Podman  
-- _Container Orchestration_ - Kubernetes, OpenShift  
-- _Logging_ - Grafana Loki, ELK Stack  
-- _Monitoring & Observability_ - Prometheus, Zabbix  
-- _Visualization_ - Grafana  
-- _Windows_ - Windows Servers, AD, WMI. Powershell  
-- _SAP_ - ABAP/4, Basis & System Administration  
-- _RDBMS_ - PostgreSQL, MariaDB, MySQL, SQLite  
-- _Programming Languages_ - PHP, JS, FoxPro  
-- _Markup Languages_ - HTML, CSS, XML, Markdown  
-- _Data Serialization_ - YAML, JSON  
-- _Web-development_ - Opencart, Grav, Wordpress  
-- _IDE_ - Vim, Sublime Text, Visual Studio Code  
-- _Design_ - Photoshop, Gimp, Figma, Illustrator, Fireworks  
-- _Office Documentation_ - MS Office 365, Libre Office  
-- _Collaboration_ - MS Teams, Slack  
-- _Time Management_ - GTD, Pomodoro  
-- _Ticket Management_ - ServiceNow  
-- _Planning & Project Management_ - JIRA, Trello, YouGile  
-- _Centralized Documentation Management_ - Confluence  
-- _Touch Typing_ - 80 WPM in EN|RU
+- Linux - Debian, Ubuntu, Mint, CentOS, Rocky Linux  
+- Source Code Management - GitLab, GitHub, Bitbucket  
+- Scripting and Languages - Bash, Python, Go  
+- Build - Maven, Gradle, npm  
+- Continuous Integration - GitLab CI, Jenkins, GitHub Actions  
+- Artifact Management Tools - Nexus  
+- Continuous Delivery - GitLab CD, Jenkins  
+- Infrastucture Provisioning - Terraform  
+- Configuration Management - Ansible  
+- Cloud Providers - Yandex Cloud, VK Cloud, AWS  
+- Containerization - Docker, Podman  
+- Container Orchestration - Kubernetes, OpenShift  
+- Logging - Grafana Loki, ELK Stack  
+- Monitoring & Observability - Prometheus, Zabbix  
+- Visualization - Grafana  
+- Windows - Windows Servers, AD, WMI. Powershell  
+- SAP - ABAP/4, Basis & System Administration  
+- RDBMS - PostgreSQL, MariaDB, MySQL, SQLite  
+- Programming Languages - PHP, JS, FoxPro  
+- Markup Languages - HTML, CSS, XML, Markdown  
+- Data Serialization - YAML, JSON  
+- Web-development - Opencart, Grav, Wordpress  
+- IDE - Vim, Sublime Text, Visual Studio Code  
+- Design - Photoshop, Gimp, Figma, Illustrator, Fireworks  
+- Office Documentation - MS Office 365, Libre Office  
+- Collaboration - MS Teams, Slack  
+- Time Management - GTD, Pomodoro  
+- Ticket Management - ServiceNow  
+- Planning & Project Management - JIRA, Trello, YouGile  
+- Centralized Documentation Management - Confluence  
+- Touch Typing - 80 WPM in EN|RU
 
 [Back to top](#andrew-alekseenkov)
 
