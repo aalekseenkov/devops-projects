@@ -20,7 +20,7 @@
 
 I believe in learning by doing. Here are some of my DevOps projects designed around the real-world scenarios and ensured me gaining practical skills that can be immediately applied in my work environment.
 
-- [DevOps Project 01 - Test Ansible Playbook with Docker](/PROJECT_01/README.md)
+- [DevOps Project 01 - Test Ansible Playbook with Docker](/PROJECT_01/)
 - DevOps Project 02 - PostgreSQL with pgAdmin and monitoring
 - DevOps Project 03 - Java Application using Gradle
 - DevOps Project 04 - WebServer using Docker
