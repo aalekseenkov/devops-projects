@@ -20,16 +20,17 @@
 
 I believe in learning by doing. Here are some of my DevOps projects designed around the real-world scenarios and ensured me gaining practical skills that can be immediately applied in my work environment.
 
-- DevOps Project 01 - PostgreSQL/pgAdmin/monitoring
-- DevOps Project 02 - Java Application using Gradle
-- DevOps Project 03 - WebServer using Docker
-- DevOps Project 04 - CI/CD Pipeline using GitLab
-- DevOps Project 05 - CD Pipeline using AWS
-- DevOps Project 06 - Deploying a Containerized Web Application
-- DevOps Project 07 - Building Version Control System
-- DevOps Project 08 - Deploying Application Using Kubernetes
-- DevOps Project 09 - Structuring a Terraform Project
-- DevOps Project 10 - Building and Executing Selenium Project
+- [DevOps Project 01 - Test Ansible Playbook with Docker](/PROJECT_01/README.md)
+- DevOps Project 02 - PostgreSQL with pgAdmin and monitoring
+- DevOps Project 03 - Java Application using Gradle
+- DevOps Project 04 - WebServer using Docker
+- DevOps Project 05 - CI/CD Pipeline using GitLab
+- DevOps Project 06 - CD Pipeline using AWS
+- DevOps Project 07 - Deploying a Containerized Web Application
+- DevOps Project 08 - Building Version Control System
+- DevOps Project 09 - Deploying Application Using Kubernetes
+- DevOps Project 10 - Structuring a Terraform Project
+- DevOps Project 11 - Building and Executing Selenium Project
 
 ## All My IT Skills and Technologies
 
