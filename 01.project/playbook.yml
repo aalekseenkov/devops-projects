@@ -1,0 +1,18 @@
+---
+# yamllint disable rule:line-length
+
+- name: Ansible Playbook
+  hosts: test_hosts
+  gather_facts: false
+  become: true
+
+  tasks:
+    - name: Install Vim and Midnight Commander
+      ansible.builtin.package:
+        name:
+          - vim
+          - mc
+        state: latest
+      register: task_result
+      until: not task_result.failed
+      retries: 1
