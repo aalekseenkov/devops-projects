@@ -21,12 +21,12 @@ We should clone the project and **update templates** for our current task accord
 ```
 The purpose of the files:
 * **Dockerfile** - to configure our container according to the necessary conditions for the target host
-* **ansible.cfg** - to control our configation of Ansible for the current test
+* **ansible.cfg** - to control our configation of Ansible for the current test case
 * **playbook.yml** - to place our test playbook
 * **run-test.sh** - to manage all stages of our testing process
 
 ## Tips and Tricks
-**To change permisson for docker.sock:**  
+**To change permission for docker.sock:**  
 ```sudo chmod 666 /var/run/docker.sock```
 
 **To verbose more or less information change -vvv in run-test.sh**  
