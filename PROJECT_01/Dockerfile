@@ -3,7 +3,7 @@ FROM ubuntu:latest
 ARG USER=${USER}
 
 # Add sudo and openssh-server
-ENV DEBIAN_FRONTEND=noninteractive
+ARG DEBIAN_FRONTEND=noninteractive
 RUN apt update && apt install openssh-server sudo -y
 
 # Setup running user on the container with sudo rights and
