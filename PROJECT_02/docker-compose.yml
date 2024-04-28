@@ -1,0 +1,31 @@
+---
+name: a2postgres
+
+services:
+  postgres:
+    image: postgres:16.1
+    environment:
+      POSTGRES_DB: "a2db"
+      POSTGRES_USER: "a2user"
+      POSTGRES_PASSWORD: "a2pa$$word"
+      PGDATA: "/var/lib/postgresql/data/pgdata"
+    volumes:
+      - "./initdb:/docker-entrypoint-initdb.d"
+      - "a2db-data:/var/lib/postgresql/data"
+    ports:
+      - "6432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U a2user -d a2db"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+    restart: unless-stopped
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 4G
+
+volumes:
+  a2db-data:
