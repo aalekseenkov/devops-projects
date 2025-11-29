@@ -1,4 +1,4 @@
-# False Test Ansible Playbook with Docker
+# Test Ansible Playbook with Docker
 
 ![Test Ansible Playbook with Docker](https://raw.githubusercontent.com/aalekseenkov/devops-projects/refs/heads/master/PROJECT_01/images/devops_project_01_01.jpg)  
 
@@ -32,6 +32,7 @@ The purpose of the files:
 **To verbose more or less information change -vvv in run-test.sh**  
 ```ansible-playbook -i "${TEMP_INVENTORY_FILE}" -vvv "${base_dir}/playbook.yml"```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjExNDk4NiwxNzg5NDgzNTcxLC01Mz
-g4NDYwNzQsMTc4OTQ4MzU3MSwtMjc3MTY1NzM3XX0=
+eyJoaXN0b3J5IjpbMTc4OTQ4MzU3MSwtNTQyMTE0OTg2LDE3OD
+k0ODM1NzEsLTUzODg0NjA3NCwxNzg5NDgzNTcxLC0yNzcxNjU3
+MzddfQ==
 -->
