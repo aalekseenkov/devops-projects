@@ -1,4 +1,4 @@
-![Andrew Alekseenkov - DevOps Projects and Skills](/images/GitHub-DevOps-Projects.png "May it be good for the world")
+![Andrew Alekseenkov - DevOps Projects and Skills](https://raw.githubusercontent.com/aalekseenkov/devops-projects/refs/heads/master/images/GitHub-DevOps-Projects.png "May it be good for the world")
 # Andrew Alekseenkov
 
 > I am a highly competent IT professional with a proven track record in devops, system administration, networking, web development, managing databases and SAP. I have strong technical skills as well as excellent skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion in life is using my technical know-how to benefit other people and organizations.
@@ -74,3 +74,6 @@ MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 [Back to top](#andrew-alekseenkov)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MDMxMjk1NzNdfQ==
+-->
