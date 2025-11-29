@@ -1,6 +1,6 @@
 # Test Ansible Playbook with Docker
 
-![Test Ansible Playbook with Docker](/PROJECT_01/images/devops_project_01_01.jpg)  
+![Test Ansible Playbook with Docker](https://raw.githubusercontent.com/aalekseenkov/devops-projects/refs/heads/master/PROJECT_01/images/devops_project_01_01.jpg)  
 
 Having some simple tests could solve our issues while we are developing playbooks, and provide some constant feedback about the playbooks' validity. But how do we test Ansible playbooks (other than lint them)?
 
@@ -32,5 +32,5 @@ The purpose of the files:
 **To verbose more or less information change -vvv in run-test.sh**  
 ```ansible-playbook -i "${TEMP_INVENTORY_FILE}" -vvv "${base_dir}/playbook.yml"```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzE2NTczN119
+eyJoaXN0b3J5IjpbMTc4OTQ4MzU3MSwtMjc3MTY1NzM3XX0=
 -->
