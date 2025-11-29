@@ -31,3 +31,6 @@ The purpose of the files:
 
 **To verbose more or less information change -vvv in run-test.sh**  
 ```ansible-playbook -i "${TEMP_INVENTORY_FILE}" -vvv "${base_dir}/playbook.yml"```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI3NzE2NTczN119
+-->
